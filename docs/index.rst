@@ -1,11 +1,23 @@
-py-jsondb
-=========
+.. py-jsondb documentation master file, created by
+   sphinx-quickstart on Sat Nov 13 22:31:21 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to py-jsondb's documentation!
+=====================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
 
 This is a JSON database that uses a single file and the LuaTables package to create a database type package.
 
 Docs
 ====
-Available [here](https://pyjsondb.docs.skystuff.games)
+Available here_.
+
+.. _here: https://pyjsondb.docs.skystuff.games
 
 Usage
 =====
